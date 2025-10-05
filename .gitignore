@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Xcode build files
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# openFrameworks build outputs
+bin/
+obj/
+*.app
+*.o
+*.a
+
+# Backup / temp
+*.bak
+*.tmp
